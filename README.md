@@ -17,10 +17,10 @@ Bu proje, FLO için bir **satış tahmin sistemi** geliştirme amacını taşım
   - Python (Pandas, PySpark)
   - SQL
   - Apache Airflow / Prefect / Luigi (ETL orkestrasyonu)
--**Veri Analizi (EDA):**
+- **Veri Analizi (EDA):**
   - Python (Pandas, Matplotlib, Seaborn)
   - veri görselleştirme, trend ve sezon analizi, eksik veri tespiti.
--**Feature Engineering**
+- **Feature Engineering**
   -scaling, encoding, yeni feature yaratımı, etkileşim değişkenleri.
 - **Modelleme & ML Ops:**
   - Scikit-Learn, XGBoost, LightGBM, CatBoost
